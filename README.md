@@ -40,8 +40,10 @@ Project File Structure
 
 Data
 -	Houses the initial and cleaned datasets.
+  
 Workbooks
 -	Houses the Jupyter Notebook that holds the EDA code and results.
+  
 Visualisations
 -	Houses the .twb Tableau files as well as links to the visualisations on Tableau Public.
 
