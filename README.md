@@ -21,13 +21,13 @@ Business & Domain Questions
     
 Tools and Technologies
 
-Python
--	Pandas (data cleaning and manipulation)
--	Matplotlib.pyplot (data visualisation)
+    Python
+        -	Pandas (data cleaning and manipulation)
+        -	Matplotlib.pyplot (data visualisation)
   
-Tableau
--	Interactive dashboards
--	Tableau Story for narrative presentation
+    Tableau
+        -	Interactive dashboards
+        -	Tableau Story for narrative presentation
 
 Process
 
