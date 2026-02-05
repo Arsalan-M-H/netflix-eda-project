@@ -21,11 +21,11 @@ Business & Domain Questions
     
 Tools and Technologies
 
-    Python
+   Python
         -	Pandas (data cleaning and manipulation)
         -	Matplotlib.pyplot (data visualisation)
   
-    Tableau
+   Tableau
         -	Interactive dashboards
         -	Tableau Story for narrative presentation
 
