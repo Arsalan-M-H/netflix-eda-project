@@ -24,6 +24,7 @@ Tools and Technologies
 Python
 -	Pandas (data cleaning and manipulation)
 -	Matplotlib.pyplot (data visualisation)
+  
 Tableau
 -	Interactive dashboards
 -	Tableau Story for narrative presentation
